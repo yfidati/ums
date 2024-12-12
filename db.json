@@ -1,0 +1,162 @@
+{
+  "users": [
+    {
+      "id": "11",
+      "name": "Youssef FIDATI",
+      "username": "YFIDATI",
+      "email": "fidati15@gmail.com",
+      "phone": "0662723313",
+      "website": "yfidati.ma",
+      "address": {
+        "street": "warda Mesnana",
+        "city": "Tangier",
+        "country": "morocco",
+        "zipcode": "90000"
+      },
+      "company": {
+        "name": "Mooroot Studio",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": "12",
+      "name": "Farraki Badr Eddine",
+      "username": "BFARRAKI",
+      "email": "Farrakibadreddine@gmail.com",
+      "phone": "060000000000",
+      "website": "Farrakibadreddine.net",
+      "address": {
+        "street": "Kulas Light",
+        "city": "Rabat",
+        "zipcode": "100000"
+      },
+      "company": {
+        "name": "Law Company",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": "13",
+      "name": "Ayoub Jarmouni",
+      "username": "AJARMOUNI",
+      "email": "AyoubJarmouni@gmail.com",
+      "phone": "061000000000",
+      "website": "AyoubJarmouni.net",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874"
+      },
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": "14",
+      "name": "Mouad Dahmani",
+      "username": "MDAHMANI",
+      "email": "MouadDahmani@gmail.com",
+      "phone": "061200000000",
+      "website": "MouadDahmani.net"
+    },
+    {
+      "id": "15",
+      "name": "Noufal HAIKI",
+      "username": "NHAIKI",
+      "email": "NoufalHAIKI@gmail.com",
+      "phone": "061230000000",
+      "website": "NoufalHAIKI.net"
+    },
+    {
+      "id": "16",
+      "name": "Ibtissam HAKIM",
+      "username": "IHAKIM",
+      "email": "IbtissamHAKIM@gmail.com",
+      "phone": "061234000000",
+      "website": "IbtissamHAKIM.net"
+    },
+    {
+      "id": "17",
+      "name": "Amina Majid",
+      "username": "AMajid",
+      "email": "AminaMajid@gmail.com",
+      "phone": "061234500000",
+      "website": "AminaMajid.net"
+    },
+    {
+      "id": "2",
+      "name": "Nour Bakhti Marrakchi",
+      "username": "NBakhti",
+      "email": "NourBakhti@gmail.com",
+      "phone": "061234500000",
+      "website": "NourBakhtiMarrakchi.net"
+    },
+    {
+      "id": "3",
+      "name": "Jabri Youssef",
+      "username": "YJabri",
+      "email": "JabriYoussef@gmail.com",
+      "phone": "061234500000",
+      "website": "JabriYoussef.net"
+    },
+    {
+      "id": "4",
+      "name": "khaoula Khalil",
+      "username": "KKhalil",
+      "email": "khaoulaKhalil@gmail.com",
+      "phone": "061234560000",
+      "website": "khaoulaKhalil.net"
+    },
+    {
+      "id": "5",
+      "name": "Chouaib Belaftouh",
+      "username": "CBelaftouh",
+      "email": "ChouaibBelaftouh@gmail.com",
+      "phone": "061234560000",
+      "website": "ChouaibBelaftouh.net"
+    },
+    {
+      "id": "6",
+      "name": "Choukri Marouane",
+      "username": "MChoukri",
+      "email": "ChoukriMarouane@gmail.com",
+      "phone": "061234560000",
+      "website": "ChoukriMarouane.net"
+    },
+    {
+      "id": "22",
+      "name": "Lebyed Zakaria",
+      "username": "ZLebyed",
+      "email": "LebyedZakaria@gmail.com",
+      "phone": "061234560000",
+      "website": "LebyedZakaria.net"
+    },
+    {
+      "id": "9",
+      "name": "Rami ANASS",
+      "username": "ARami",
+      "email": "RamiANASS@gmail.com",
+      "phone": "061234560000",
+      "website": "RamiANASS.net"
+    },
+    {
+      "id": "5972",
+      "name": "Belaftouh Wafae",
+      "username": "WBelaftouh",
+      "email": "BelaftouhWafae@yahoo.fr",
+      "phone": "0662751503",
+      "website": "BelaftouhWafae.io"
+    },
+    {
+      "id": "ca24",
+      "name": "nour ",
+      "username": "mNour",
+      "email": "qelauguvk@gmaildvhkbhk",
+      "phone": "+5425052",
+      "website": "jadgcfasiycc"
+    }
+  ]
+}
